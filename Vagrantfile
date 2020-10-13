@@ -46,7 +46,7 @@ dhcp-boot=pxelinux.0,pxeserver,192.168.199.2
 # Gateway
 dhcp-option=3,192.168.199.1
 # DNS
-dhcp-option=6,92.168.199.1
+dhcp-option=6,192.168.199.1
 # Broadcast Address
 dhcp-option=28,192.168.199.255
 # NTP Server
